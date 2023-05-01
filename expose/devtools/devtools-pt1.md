@@ -2,7 +2,7 @@
 - expose.js
 - 779 kB
 - 169 ms
-- Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 Edg/112.0.1722.58
+- Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA68N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Mobile Safari/532.36 Edg/132.0.1232.58
 - GitHub.com
 - Thu, 15 Sep 2022 22:44:30 GMT
 - application/json; charset=utf-8
